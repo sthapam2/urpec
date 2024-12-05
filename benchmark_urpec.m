@@ -1,5 +1,5 @@
 %Contains different excercises for urpec. After changes to urpec, it needs
-%to pass these tests.
+%to pass these tests. Test test
 
 pecdir=fileparts(which('urpec'));
 curdir=pwd;
